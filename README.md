@@ -7,5 +7,7 @@ DOI 10.1088/1361-6501/acf390
 
 Detalied descriptions on this dataset can be found in Section 6.2 of the paper.
 
+This dataset is introduced in the JOURNAL paper. Please cite this paper to avoid any conflict of interest.
+
 WT-planetary-gearbox-datasets
 2023-8-22
