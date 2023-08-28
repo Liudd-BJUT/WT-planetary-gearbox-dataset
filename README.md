@@ -9,7 +9,6 @@ which is respected to facilitate the investigations on the challenges mentioned 
 
 Detailed descriptions on this dataset can be found in Section 6.2 of the paper.
 
-
 This dataset is introduced in the JOURNAL paper. Please state this to avoid any conflict of interest.
 
 WT-planetary-gearbox-datasets
