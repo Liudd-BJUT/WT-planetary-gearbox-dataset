@@ -7,7 +7,7 @@ DOI 10.1088/1361-6501/acf390,
 
 which is respected to facilitate the investigations on the challenges mentioned in Section 5.
 
-Detalied descriptions on this dataset can be found in Section 6.2 of the paper.
+Detailed descriptions on this dataset can be found in Section 6.2 of the paper.
 
 
 This dataset is introduced in the JOURNAL paper. Please state this to avoid any conflict of interest.
