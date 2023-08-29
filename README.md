@@ -5,7 +5,7 @@ Dongdong Liu, Lingli Cui, and Weidong Cheng. A review on deep learning in planet
 health state recognition: Methods, applications, and dataset publication, Measurement Science and Technology,
 DOI 10.1088/1361-6501/acf390, 
 
-which is respected to facilitate the investigations on the challenges mentioned in Section 5.
+which is expected to facilitate the investigations on the challenges mentioned in Section 5.
 
 Detailed descriptions on this dataset can be found in Section 6.2 of the paper.
 
