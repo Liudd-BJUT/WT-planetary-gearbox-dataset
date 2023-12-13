@@ -9,9 +9,10 @@ which is expected to facilitate the investigations on the challenges mentioned i
 
 Detailed descriptions on this dataset can be found in Section 6.2 of the paper.
 
-The dataset can also be downloaded from baidu wangpan（百度网盘） as following.
+The dataset can also be downloaded from baidu wangpan (百度网盘) as following.
 
 link：https://pan.baidu.com/s/1u_JoKA94QZ9i63OYgqj9yg?pwd=6666
+
 code：6666
 
 This dataset is introduced in the JOURNAL paper. Please state this to avoid any conflict of interest.
