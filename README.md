@@ -1,4 +1,4 @@
-# WT-planetary-gearbox-dataset/行星齿轮箱振动数据
+# WT-planetary-gearbox-dataset
 This dataset was published in 
 
 Dongdong Liu, Lingli Cui, and Weidong Cheng. A review on deep learning in planetary gearbox
@@ -11,9 +11,9 @@ Detailed descriptions on this dataset can be found in Section 6.2 of the paper.
 
 The dataset can also be downloaded from baidu wangpan (百度网盘) as following.
 
-link：https://pan.baidu.com/s/1u_JoKA94QZ9i63OYgqj9yg?pwd=6666
+https://pan.baidu.com/s/1KtbowXH_shXDa2iEOKHNFw?_at_=1715315497549#list/path=%2F
 
-code：6666
+code：fbi5
 
 This dataset is introduced in the JOURNAL paper. Please state this to avoid any conflict of interest.
 
